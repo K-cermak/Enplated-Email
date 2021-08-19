@@ -86,7 +86,7 @@
           $this->tableActive = true;
           return <<<HTML
           $html
-          <table border='0' cellspacing='10' cellpadding='10' align='center' class='row' style='text-align: center;'>
+          <table border='0' cellspacing='0' cellpadding='10' align='center' class='row' style='text-align: center;'>
             <tr>
           HTML;
         }
@@ -124,12 +124,12 @@
             $this->debugMessage("EM row info: Currently generating with row settings");
             return <<<HTML
               $html
-              <td><$element style="font-family: $font; color: $color;">$text</$element></td>
+              <td><$element style="font-family: $font; color: $color;margin:0px">$text</$element></td>
               HTML;
             } else {
               return <<<HTML
               $html
-              <$element style="font-family: $font; color: $color;">$text</$element>
+              <$element style="font-family: $font; color: $color;margin:0px">$text</$element>
               HTML;
             }
         }
@@ -169,23 +169,17 @@
         function createSpace($html, $spaceSize, $backgroundColor) {
           $this->debugMessage("EM debug: Creating new space");
           $spaceSize .="px";
-          if ($spaceSize == 10 || $spaceSize == 25 || $spaceSize == 75 || $spaceSize == 100 || $spaceSize == 200 || $spaceSize == 250) {
-            $this->debugMessage("EM space info: Space size ok");
-            if ($this->tableActive == true) {
-              $this->debugMessage("EM row info: Currently generating with row settings");
-              return <<<HTML
-                $html
-                <td><p style="padding-bottom: $spaceSize; background-color: $backgroundColor;">&#10240;</p></td>
-                HTML;
-            } else {
-              return <<<HTML
+          if ($this->tableActive == true) {
+            $this->debugMessage("EM row info: Currently generating with row settings");
+            return <<<HTML
               $html
-              <p style="padding-bottom: $spaceSize; background-color: $backgroundColor;">&#10240;</p>
+              <td><p style="padding-bottom: $spaceSize; background-color: $backgroundColor;">&#10240;</p></td>
               HTML;
-            }
           } else {
-            $this->debugMessage("EM space info: Space not defined correctly, no change made with template");
-            return $html;
+            return <<<HTML
+            $html
+            <p style="padding-bottom: $spaceSize; background-color: $backgroundColor;">&#10240;</p>
+            HTML;
           }
         }
 
