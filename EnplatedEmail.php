@@ -108,12 +108,12 @@
             $this->debugMessage("EM row info: Currently generating with row settings");
             return <<<HTML
               $html
-              <td><img src='$link' style='margin: 20px; height: 70px;' height='70'></td>
+              <td><img src='$link' style='margin: 20px; height: 90px;' height='90'></td>
               HTML;
           } else {
             return <<<HTML
               $html
-              <img src='$link' style='margin: 20px; height: 70px;' height='70'>
+              <img src='$link' style='margin: 20px; height: 90px;' height='90'>
               HTML;
           }
         }
@@ -173,12 +173,12 @@
             $this->debugMessage("EM row info: Currently generating with row settings");
             return <<<HTML
               $html
-              <td><p style="padding-bottom: $spaceSize; background-color: $backgroundColor;">&#10240;</p></td>
+              <td><p style="padding-bottom: $spaceSize; background-color: $backgroundColor;margin:0px;font-size:0em;">&#10240;</p></td>
               HTML;
           } else {
             return <<<HTML
             $html
-            <p style="padding-bottom: $spaceSize; background-color: $backgroundColor;">&#10240;</p>
+            <p style="padding-bottom: $spaceSize; background-color: $backgroundColor;margin:0px;font-size:0em;">&#10240;</p>
             HTML;
           }
         }
