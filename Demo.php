@@ -30,5 +30,5 @@
     $emailForm = $EM->finish($emailForm, true, "'Ubuntu', sans-serif", "#ffffff","#003f70");
 
     echo $emailForm;
-    //mail("name@example.com", "Example emailForm", $emailForm);
+    mail("name@example.com", "Example emailForm", $emailForm);
 ?>
