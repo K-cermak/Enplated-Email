@@ -34,7 +34,7 @@
                                 <table border='0' cellspacing='0' cellpadding='0' align='center' style='border-collapse:collapse'>
                                     <tbody>
                                         <tr>
-                                            <td width='600' align='center' class='content' style='background-color: $bodyColor; height: auto; border-radius: 25px; text-align: center; padding: 50px 2%;' bgcolor='$bodyColor'>
+                                            <td width='600' align='center' style='background-color: $bodyColor; height: auto; border-radius: 25px; text-align: center; padding: 50px 2%;' bgcolor='$bodyColor'>
                                                 <table border='0' cellspacing='0' cellpadding='0' align='center' style='border-collapse:collapse;max-width:420px;margin:0 auto'>
                                                     <tbody>
                                                         <tr>
@@ -86,7 +86,7 @@
           $this->tableActive = true;
           return <<<HTML
           $html
-          <table border='0' cellspacing='0' cellpadding='10' align='center' class='row' style='text-align: center;'>
+          <table border='0' cellspacing='0' cellpadding='10' align='center' style='text-align: center;'>
             <tr>
           HTML;
         }
