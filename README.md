@@ -4,7 +4,7 @@
 ### Why to use Enplated Email?
 - Easy to create beautiful emails 
 - Simple implementation using PHP
-- Easy color and design customisation
+- Easy color and design customization
 - Good appearance in many email clients (Tested on Gmail, Outlook, Thunderbird, Protonmail and Email.cz). 
 - Completely free
 
