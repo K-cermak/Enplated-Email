@@ -14,14 +14,14 @@
 ### Enplated Email website:
 https://enplated-email.k-cermak.com
 
-### How to implement Enplated?
+### How to implement Enplated Email?
 https://enplated-email.k-cermak.com/en/implementation
 
 ### Where can I read documentation?
 https://enplated-email.k-cermak.com/en/documentation
 
 ### License
-Enplated is available under MIT license. More here: https://enplated-email.k-cermak.com/en/license
+Enplated Email is available under MIT license. More here: https://enplated-email.k-cermak.com/en/license
 
 <br/>
 <br/>
