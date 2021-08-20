@@ -27,7 +27,7 @@ Enplated Email is available under MIT license. More here: https://enplated-email
 <br/>
 
 ## FAQ
-###Does Enplated Email support other server languages (Node.js, Python...?)
+### Does Enplated Email support other server languages (Node.js, Python...?)
 Enplated Email currently only works with PHP. However, if you want to, transferring it to another language shouldn't be that problem.
 
 ### What is the difference between Enplated (Framework) and Enplated Email?
