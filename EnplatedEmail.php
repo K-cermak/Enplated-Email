@@ -1,4 +1,11 @@
 <?php
+  /*
+  ENPLATED Email 1.0 by Karel Cermak (info@k-cermak.com)
+  WEBSITE: https://enplated-email.k-cermak.com/
+  DOCUMENTATION: https://enplated-email.k-cermak.com/en/documentation
+  LICENSE: https://enplated-email.k-cermak.com/en/license
+  */
+
     class EM {
         private $debugAllow = false;
         private $tableActive = false;
