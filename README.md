@@ -26,12 +26,15 @@ Enplated Email is available under MIT license. More here: https://enplated-email
 <br/>
 <br/>
 
+### Enplated Framework is part of Enplated project:
+https://enplated.k-cermak.com
+
+<br/>
+<br/>
+
 ## FAQ
 ### Does Enplated Email support other server languages (Node.js, Python...?)
 Enplated Email currently only works with PHP. However, if you want to, transferring it to another language shouldn't be that problem.
-
-### What is the difference between Enplated (Framework) and Enplated Email?
-[Enplated Framework](https://github.com/K-cermak/Enplated) is a JavaScript and CSS code used to generate simple websites. Enplated Email makes the generation of email messages and notifications easier.
 
 ### For which emails is Enplated Email not so good?
 Enplated Email is primarily designed as an engine for generating notification emails (account creation, password change, support request response, etc.). For example, it can be more complicated to use it for newsletters or e-shop order recaps. But of course it can be used for anything!
