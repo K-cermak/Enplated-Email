@@ -1,7 +1,10 @@
-<img src="https://mirror.k-cermak.com/data/logo-v3/logo-enplatedemail.svg" alt="Enplated Email logo" style="height: 100px; width:100px;"/>
-
-# Enplated Email
-## Create simple and beautiful emails without dealing with any hard formatting
+<div style="display:flex; justify-content:center;">
+<img src="https://mirror.k-cermak.com/data/logo-v3/logo-enplatedemail.svg" alt="Enplated Email logo" style="height: 100px; width:500px;"/>
+</div>
+<br/>
+<h2 style="text-align: center;">Create simple and beautiful emails without dealing with any hard formatting</h2>
+<br/>
+<br/>
 
 ### Why to use Enplated Email?
 - Easy to create beautiful emails 
