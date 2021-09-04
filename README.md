@@ -1,4 +1,4 @@
-![Enplated Email](https://mirror.k-cermak.com/data/logo-v3/logo-enplatedemail.svg)
+<img src="https://mirror.k-cermak.com/data/logo-v3/logo-enplatedemail.svg" alt="Enplated Email logo" style="height: 100px; width:100px;"/>
 
 # Enplated Email
 ## Create simple and beautiful emails without dealing with any hard formatting
