@@ -1,8 +1,12 @@
-<div style="display:flex; justify-content:center;">
-<img src="https://mirror.k-cermak.com/data/logo-v3/logo-enplatedemail.svg" alt="Enplated Email logo" style="height: 100px; width:500px;"/>
-</div>
-<br/>
-<h2 style="text-align: center;">Create simple and beautiful emails without dealing with any hard formatting</h2>
+<p align="center">
+    <a href="https://enplated-email.k-cermak.com">
+        <img src="https://mirror.k-cermak.com/data/logo-v3/logo-enplatedemail.svg" width="500" height="100" alt="Pi-hole">
+    </a>
+    <br>
+        <br>
+    <strong>Create simple and beautiful emails without dealing with any hard formatting</strong>
+</p>
+
 <br/>
 <br/>
 
