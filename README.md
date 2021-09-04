@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://enplated-email.k-cermak.com">
-        <img src="https://mirror.k-cermak.com/data/logo-v3/logo-enplatedemail.svg" width="500" height="100" alt="Pi-hole">
+        <img src="https://mirror.k-cermak.com/data/logo-v3/logo-enplatedemail.svg" width="500" height="100" alt="Enplated Email logo">
     </a>
     <br>
         <br>
