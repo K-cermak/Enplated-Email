@@ -1,3 +1,5 @@
+![Enplated Email](https://mirror.k-cermak.com/data/logo-v3/logo-enplatedemail.svg)
+
 # Enplated Email
 ## Create simple and beautiful emails without dealing with any hard formatting
 
