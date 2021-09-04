@@ -4,7 +4,7 @@
     </a>
     <br>
         <br>
-    <strong>Create simple and beautiful emails without dealing with any hard formatting</strong>
+    <h2 style="text-align:center">Create simple and beautiful emails without dealing with any hard formatting.</h2>
 </p>
 
 <br/>
