@@ -1,6 +1,13 @@
+# ❗️❗️ This version of the Enplated Email is no longer maintained.
+
+### 👉 [Please go to the main branch for the latest version.](https://github.com/K-cermak/Enplated-Email)
+
+<br><br>
+
+
 <p align="center">
     <a href="https://enplated-email.k-cermak.com">
-        <img src="https://mirror.k-cermak.com/data/logo-v3/logo-enplatedemail-bg.svg" width="700" height="150" alt="Enplated Email logo">
+        <img src="https://cdn.karlosoft.com/cdn-data/ks/img/enplated/github/enp-email.svg" width="700" height="150" alt="Enplated Email logo">
     </a>
     <br>
         <br>
