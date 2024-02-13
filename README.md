@@ -34,7 +34,7 @@
 
 ### Example simple email:
 
-<img src="https://cdn.karlosoft.com/cdn-data/ks/img/enp-email/github.png" width="700" alt="Proxmox FTP Syncer">
+<img src="https://cdn.karlosoft.com/cdn-data/ks/img/enp-email/github.png" height="500" alt="Proxmox FTP Syncer">
 
 ---
 
