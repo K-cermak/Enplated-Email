@@ -28,22 +28,22 @@
 <br/>
 
 ### Enplated Email website:
-https://enplated-email.k-cermak.com
+https://enplated.karlosoft.com/email/1.0
 
 ### How to implement Enplated Email?
-https://enplated-email.k-cermak.com/en/implementation
+https://enplated.karlosoft.com/email/1.0/implementation
 
 ### Where can I read documentation?
-https://enplated-email.k-cermak.com/en/documentation
+https://enplated.karlosoft.com/email/1.0/docs
 
 ### License
-Enplated Email is available under MIT license. More here: https://enplated-email.k-cermak.com/en/license
+Enplated Email is available under MIT license. More here: https://enplated.karlosoft.com/email/1.0/license
 
 <br/>
 <br/>
 
 ### Enplated Framework is part of Enplated project:
-https://enplated.k-cermak.com
+https://enplated.karlosoft.com
 
 <br/>
 <br/>

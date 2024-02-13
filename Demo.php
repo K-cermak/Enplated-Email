@@ -1,9 +1,9 @@
 <?php
     /*
-    ENPLATED Email 1.0 by Karel Cermak (info@k-cermak.com)
-    WEBSITE: https://enplated-email.k-cermak.com/
-    DOCUMENTATION: https://enplated-email.k-cermak.com/en/documentation
-    LICENSE: https://enplated-email.k-cermak.com/en/license
+    ENPLATED Email 1.0 by Karel Cermak (info@karlosoft.com)
+    WEBSITE: https://enplated.karlosoft.com/email/1.0
+    DOCUMENTATION: https://enplated.karlosoft.com/email/1.0/docs
+    LICENSE: https://enplated.karlosoft.com/email/1.0/license
     */
 
     require_once 'EnplatedEmail.php';

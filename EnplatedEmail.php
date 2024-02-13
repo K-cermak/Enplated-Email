@@ -1,9 +1,9 @@
 <?php
   /*
-  ENPLATED Email 1.0 by Karel Cermak (info@k-cermak.com)
-  WEBSITE: https://enplated-email.k-cermak.com/
-  DOCUMENTATION: https://enplated-email.k-cermak.com/en/documentation
-  LICENSE: https://enplated-email.k-cermak.com/en/license
+  ENPLATED Email 1.0 by Karel Cermak (info@karlosoft.com)
+  WEBSITE: https://enplated.karlosoft.com/email/1.0
+  DOCUMENTATION: https://enplated.karlosoft.com/email/1.0/docs
+  LICENSE: https://enplated.karlosoft.com/email/1.0/license
   */
 
     class EM {
@@ -53,7 +53,7 @@
           if ($allowInfo == true) {
             return <<<HTML
             $html
-                                    <p style="font-family: $font; color: $color;font-size:0.8em;">Generated with Enplated Email. Email looks broken? Please report any errors <a href="https://enplated-email.k-cermak.com/report" target='_blank' style='color: $linkColor;'>here</a>.</p>
+                                    <p style="font-family: $font; color: $color;font-size:0.8em;">Generated with Enplated Email. Email looks broken? Please report any errors <a href="https://enplated.karlosoft.com/email/1.0/report" target='_blank' style='color: $linkColor;'>here</a>.</p>
                                     </tr>
                                   </tbody>
                                 </table>
