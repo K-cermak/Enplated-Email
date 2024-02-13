@@ -51,3 +51,7 @@
 
 ### Enplated Framework is part of Enplated project:
 - https://enplated.karlosoft.com
+
+
+### Older versions of Enplated Framework
+- For older versions of Enplated Framework (non recommended) go to branches.
