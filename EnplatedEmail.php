@@ -41,7 +41,7 @@
       HTML;
     }
 
-    function finish($allowInfo, $font, $color, $linkColor) {
+    function finish($allowInfo, $font = "Arial", $color = "#000000", $linkColor = "#000000") {
       $this->debugMessage("EM debug: Interface processing completed");
 
       if ($allowInfo) {
