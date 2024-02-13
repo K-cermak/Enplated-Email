@@ -49,9 +49,9 @@
 
 --- 
 
-### Enplated Framework is part of Enplated project:
+### Enplated Email is part of Enplated project:
 - https://enplated.karlosoft.com
 
 
-### Older versions of Enplated Framework
-- For older versions of Enplated Framework (non recommended) go to branches.
+### Older versions of Enplated Email
+- For older versions of Enplated Email (non recommended) go to branches.
