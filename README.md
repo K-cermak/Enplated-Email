@@ -34,7 +34,7 @@
 
 ### Example simple email:
 
-<img src="https://cdn.karlosoft.com/cdn-data/ks/img/enp-email/github.png" height="500" alt="Enplated Email example">
+<img src="https://cdn.karlosoft.com/cdn-data/ks/img/enplated/github/enp-email-showcase.png" height="500" alt="Enplated Email example">
 
 ---
 
