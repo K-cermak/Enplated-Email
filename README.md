@@ -20,7 +20,7 @@
 ### 🌍 Enplated Email website
 - https://enplated.karlosoft.com/email/
 
-### 😊 Implementation of Enplated
+### 😊  How to implement Enplated Email?
 - https://enplated.karlosoft.com/email/implementation
 
 ### 📕 Docs
