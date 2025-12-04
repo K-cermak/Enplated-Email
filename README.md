@@ -3,7 +3,7 @@
         <img src="https://cdn.karlosoft.com/cdn-data/ks/img/enplated/github/enp-email.svg" width="700" height="150" alt="Enplated Email logo">
     </a>
     <br>
-    <strong> Create simple and effective emails without dealing with any hard formatting.</strong>
+    <strong> Create simple and effective emails without having to worry about complicated formatting.</strong>
 </p>
 
 <br>
@@ -40,12 +40,12 @@
 
 ### FAQ
 
-#### Is Enplated Email supported in other languages (Node.js, Python...?)
-- Enplated Email currently only works with PHP. However, if you want to, transferring it to another language shouldn't be that problem.
+#### Is Enplated Email supported in other languages (Node.js, Python...)?
+- Enplated Email currently only works with PHP. However, if you want to, transferring it to another language shouldn't be a problem.
 
-#### Where is Enplated Email not best to be used?
+#### In which situations is Enplated Email not the best option?
 - Enplated Email is primarily designed as an engine for generating notification emails (account creation, password change, support request response, etc.).
-- It can be more complicated to use it for newsletters or e-shop order recaps. But of course it can be used for anything!
+- It can be more complicated to use it for newsletters or e-shop order recaps. But of course it can be used for anything.
 
 --- 
 
