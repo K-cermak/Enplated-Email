@@ -115,7 +115,7 @@
       if ($this->tableActive) {
         $this->debugMessage("EM row info: Currently generating with row settings");
         $this->html .= <<<HTML
-          <td><p style="font-family: $font; color: $textColor;">$preText<a href='$link' target='_blank' style='color: $linkColor;'>$linkText</a>$postText</p><td>
+          <td><p style="font-family: $font; color: $textColor;">$preText<a href='$link' target='_blank' style='color: $linkColor;'>$linkText</a>$postText</p></td>
         HTML;
 
       } else {
