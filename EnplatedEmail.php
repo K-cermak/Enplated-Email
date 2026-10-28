@@ -46,7 +46,7 @@
 
       if ($allowInfo) {
         $this->html .= <<<HTML
-          <p style="font-family: $font; color: $color;font-size:0.8em;">Generated with Enplated Email. Email looks broken? Please report any errors <a href="https://enplated.karlosoft.com/email/report" target='_blank' style='color: $linkColor;'>here</a>.
+          <p style="font-family: $font; color: $color;font-size:0.8em;">Generated with Enplated Email. Does this email look broken? Please report the issue <a href="https://enplated.karlosoft.com/email/report" target='_blank' style='color: $linkColor;'>here</a>.
           </p></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>
         HTML;
 
@@ -60,7 +60,7 @@
     }
 
     function createRow() {
-      $this->debugMessage("EM debug: Created new row");
+      $this->debugMessage("EM debug: Creating new row");
       $this->tableActive = true;
 
       $this->html .= <<<HTML
@@ -81,7 +81,7 @@
       $this->debugMessage("EM debug: Creating new logo");
 
       if ($this->tableActive) {
-        $this->debugMessage("EM row info: Currently generating with row settings");
+        $this->debugMessage("EM row info: Generating element inside a row");
         $this->html .= <<<HTML
           <td><img src='$link' style='margin: 20px; height: 90px;' height='90'></td>
         HTML;
@@ -97,7 +97,7 @@
       $this->debugMessage("EM debug: Creating new text");
 
       if ($this->tableActive) {
-        $this->debugMessage("EM row info: Currently generating with row settings");
+        $this->debugMessage("EM row info: Generating element inside a row");
         $this->html .= <<<HTML
           <td><$element style="font-family: $font; color: $color;margin:0px">$text</$element></td>
         HTML;
@@ -113,7 +113,7 @@
       $this->debugMessage("EM debug: Creating new link");
 
       if ($this->tableActive) {
-        $this->debugMessage("EM row info: Currently generating with row settings");
+        $this->debugMessage("EM row info: Generating element inside a row");
         $this->html .= <<<HTML
           <td><p style="font-family: $font; color: $textColor;">$preText<a href='$link' target='_blank' style='color: $linkColor;'>$linkText</a>$postText</p></td>
         HTML;
@@ -129,7 +129,7 @@
       $this->debugMessage("EM debug: Creating new button");
 
       if ($this->tableActive) {
-        $this->debugMessage("EM row info: Currently generating with row settings");
+        $this->debugMessage("EM row info: Generating element inside a row");
         $this->html .= <<<HTML
           <td><p style='margin: 50px 0px;'><a href='$link' target='_blank' style="background-color: $buttonColor; padding: 20px 50px; border-radius: 25px; text-decoration: none; font-size: 1.4em; color: $textColor; font-family: $font;">$text</a></p></td>
         HTML;
@@ -146,7 +146,7 @@
       $spaceSize .="px";
 
       if ($this->tableActive) {
-        $this->debugMessage("EM row info: Currently generating with row settings");
+        $this->debugMessage("EM row info: Generating element inside a row");
         $this->html .= <<<HTML
           <td><p style="padding-bottom: $spaceSize; background-color: $backgroundColor;margin:0px;font-size:0em;">&#10240;</p></td>
         HTML;
@@ -163,7 +163,7 @@
       $borderSize .= "px";
 
       if ($this->tableActive) {
-        $this->debugMessage("EM row info: Currently generating with row settings");
+        $this->debugMessage("EM row info: Generating element inside a row");
         $this->html .= <<<HTML
           <td><hr style='width: 96%; border: $borderSize solid $borderColor; margin: 10px 0px;background-color: $borderColor;'></td>
         HTML;

@@ -15,10 +15,10 @@
 
     $username = "Christine Carter";
     $EM->createText("h2", "Hi " . $username . ",", "'Montserrat', sans-serif", "#ffffff");
-    $EM->createLink("https://example.com", "Your registration on ", "example.com", " has been almost finished.", "'Montserrat', sans-serif", "#ffffff", "#003f70");
+    $EM->createLink("https://example.com", "Your registration on ", "example.com", " is almost complete.", "'Montserrat', sans-serif", "#ffffff", "#003f70");
     $EM->createSpace(50, "#707070");
 
-    $EM->createText("h4", "Please complete your registration on link below:", "'Montserrat', sans-serif", "#ffffff");
+    $EM->createText("h4", "Please complete your registration by clicking the button below:", "'Montserrat', sans-serif", "#ffffff");
     $EM->createButton("https://example.com/registry-confirm", "Click to confirm", "'Montserrat', sans-serif", "#ffffff", "#003f70");
 
     $EM->createSpace(30, "#707070");
@@ -34,5 +34,5 @@
     $emailForm = $EM->finish(true, "'Montserrat', sans-serif", "#ffffff","#003f70");
 
     echo $emailForm;
-    //mail("name@example.com", "Example emailForm", $emailForm); //would send an e-mail
+    //mail("name@example.com", "Example email", $emailForm); //uncomment to send the email
 ?>
